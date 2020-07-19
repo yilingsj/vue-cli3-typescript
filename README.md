@@ -1,37 +1,8 @@
-<<<<<<< HEAD
-# vue-cli3-github
+# 新增demo：axios请求后端接口动态更新前端路由
+分支：dev-dynamic-router-20200715
 
-## Project setup
-```
-npm install
-```
+## 场景：前台页面导航中的数据部分由后端控制
+[视频演示：](https://cloud.video.taobao.com//play/u/759415648/p/1/e/6/t/1/271504432561.mp4)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vue-cli3-typescript
-记录自己在使用vue/cli3+ts进行日常开发过程中踩过的那些坑
-
-## 其他说明
-新分支以“dev-[name]-[time]”这样的风格来定义，看官需要下载哪个demo就去对应的分支拉代码。
-
-每个分支中的README.md文件会用简单的话描述对应的demo是做什么的，同时也会放相应的视频和详细笔记的链接。
-
-## 更新问题
-不定期更新
->>>>>>> 0b79a6df88372aea6f07af86efb0684cc0ab01dd
+## 详细文章
+[@vue/cli3项目实战之后端返回动态路由后前端使用router.addRoutes无效？](http://www.yilingsj.com/xwzj/2020-07-15/vue-cli3-router-addRoutes.html)
