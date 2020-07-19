@@ -1,37 +1,8 @@
-<<<<<<< HEAD
-# vue-cli3-github
+# 新增demo：一级导航菜单的实现
+分支：dev-recursive-navigation-1-20200719
 
-## Project setup
-```
-npm install
-```
+## 说明：初步实现一级菜单，实现后优化代码并通过路由守卫动态改变页面的gitle
+[通过全局前置守卫来修改页面的title.gif](https://img.alicdn.com/imgextra/i1/759415648/O1CN01fjNPnC1rapands7jb_!!759415648.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vue-cli3-typescript
-记录自己在使用vue/cli3+ts进行日常开发过程中踩过的那些坑
-
-## 其他说明
-新分支以“dev-[name]-[time]”这样的风格来定义，看官需要下载哪个demo就去对应的分支拉代码。
-
-每个分支中的README.md文件会用简单的话描述对应的demo是做什么的，同时也会放相应的视频和详细笔记的链接。
-
-## 更新问题
-不定期更新
->>>>>>> 0b79a6df88372aea6f07af86efb0684cc0ab01dd
+## 详细文章
+[@vue/cli3+typescript项目实战之给无限级嵌套的导航添加激活样式（上）](http://www.yilingsj.com/xwzj/2020-07-19/vue-cli3-recursive-navigation-1.html)
